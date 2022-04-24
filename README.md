@@ -19,7 +19,7 @@ Luiz Medina
 https://github.com/luizmedina87
 
 ## Demo
-![project demo](https://github.com/luizmedina87/Team Profile Generator/blob/main/./assets/myteam.gif)
+![project demo](https://github.com/luizmedina87/team-profile-generator/blob/main/./assets/myteam.gif)
 
 ## Tests
 npm run test
